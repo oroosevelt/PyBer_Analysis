@@ -1,6 +1,6 @@
 # PyBer Analysis Challenge 
 Matplotlib
-
+By: Omie Roosevelt
 
 # Overview
 
@@ -10,26 +10,25 @@ The purpose of this analysis is to visualize the total fare per city type betwee
 # Results
 
 After a complete analysis of all the data that has been combined. Below you can see that total amount of fares between the months of January and April. 
-As visualized, you can see that urban areas have the highest total amount of fares during this time period, followed by suburban and rural areas. The line graph can demonstrate the gaps between the city types and how the fares are consistent withinn the first 4 months
+As visualized, you can see that urban areas have the highest total amount of fares during this time period, followed by suburban and rural areas. The line graph will demonstrate the gaps between the city types and how the fares are consistent withinn the first 4 months of the year. 
 
 ![PyberFareSummary](https://github.com/oroosevelt/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
 
-Summary of the DF and miltpile line chat, describe the difference in ride-sharing data among the different city types
 
-There is a description of the differences in ride-sharing data among the different city types. 
-Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+Below you can see the compiled data describing in details the different city tyes and how they differ. As the data correlates with the line graph above, you can see that urban areas coutn for majority f the total rides, drivers and fares, but have the least amount of average fares per ride and drivers. 
+Although, urban areas can count for majority on the contribution to the data collected, it is rural areas that have the highest average fares per ride and driver. For those who may not be sure, rural areas are swath lands that have few homes and buildings. That definition alone can explain more or less for the minimal amount of drivers and rides accounted for in those areas. However, the avergae amount of fares received per drivers and per rides are exceeding high than the other city types. Rural areas make up about 5.3% of total rides and bring in 6.8% of the total fares.
+
+Urban areas on the contrary, contribute 68.4% of the rides and also 62.7% of the total fars, more than both suburban and rural combined. Although they take account for more than half, they have the lowest average fares per ride and per driver, assuming that not all rides acquire long distances compared to the other city types. 
+The table below will provide you clear representation of the different factos that contribute to this data. 
+
 
 ![CityType](https://github.com/oroosevelt/PyBer_Analysis/blob/main/Analysis/city_type.png)
-
-
 
 
 # Summary 
 
 Provide 3 business reccommendations to the CEO for addressing any disparities among the city types 
 
-urban areas have the most total amount of fares
-suburban is second
-rural had the lowest amount 
+
 
 
